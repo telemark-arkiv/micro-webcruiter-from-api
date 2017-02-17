@@ -36,7 +36,7 @@
   },
   "now": {
     "alias": [
-      "rss.webcruiter.t-fk.win"
+      "recruitments.t-fk.win"
     ],
     "env": {
       "NODE_ENV": "production"
