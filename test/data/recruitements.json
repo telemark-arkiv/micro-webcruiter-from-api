@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "58a68351b8eaac4f458b4567",
+    "jobid": 2855,
+    "companyName": "Telemark fylkeskommune",
+    "locationId": 15,
+    "locationName": "Vest-Telemark vidaregåande skule",
+    "published": "2017-02-15",
+    "applications": 0,
+    "deadline": "2017-03-01",
+    "title": "Rektor Vest- Telemark vidaregåande skule",
+    "link": "https://hrm.btvregion.no/tfk_recruitment/jobid/2855",
+    "recruitmentText": null,
+    "recruitmentFormattedText": null,
+    "positionType": "Fast ansatt"
+  },
+  {
+    "_id": "58a68351b8eaac4f458b4568",
+    "jobid": 2856,
+    "companyName": "Telemark fylkeskommune",
+    "locationId": 1,
+    "locationName": "Fylkesadministrasjonen",
+    "published": "2017-02-15",
+    "applications": 5,
+    "deadline": "2017-03-01",
+    "title": "Feltarkeologer 2017",
+    "link": "https://hrm.btvregion.no/tfk_recruitment/jobid/2856",
+    "recruitmentText": null,
+    "recruitmentFormattedText": null,
+    "positionType": "Tidsavgrenset"
+  },
+  {
+    "_id": "58a68351b8eaac4f458b4569",
+    "jobid": 2854,
+    "companyName": "Telemark fylkeskommune",
+    "locationId": 17,
+    "locationName": "Den offentlege tannhelsetenesta",
+    "published": "2017-02-06",
+    "applications": 1,
+    "deadline": "2017-02-28",
+    "title": "Klinikkleder ved Kragerø tannklinikk",
+    "link": "https://hrm.btvregion.no/tfk_recruitment/jobid/2854",
+    "recruitmentText": null,
+    "recruitmentFormattedText": null,
+    "positionType": "Fast ansatt"
+  },
+  {
+    "_id": "58a68351b8eaac4f458b456a",
+    "jobid": 2853,
+    "companyName": "Telemark fylkeskommune",
+    "locationId": 17,
+    "locationName": "Den offentlege tannhelsetenesta",
+    "published": "2017-02-03",
+    "applications": 15,
+    "deadline": "2017-02-24",
+    "title": "3 tannlegestillinger ved Den offentlige tannhelsetjenesten",
+    "link": "https://hrm.btvregion.no/tfk_recruitment/jobid/2853",
+    "recruitmentText": null,
+    "recruitmentFormattedText": null,
+    "positionType": "Fast ansatt"
+  }
+]
