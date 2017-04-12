@@ -1,7 +1,7 @@
 {
   "name": "micro-webcruiter-from-api",
   "description": "Generate webcruiter rss from api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "private": true,
   "author": {
@@ -53,7 +53,7 @@
     "nsp": "2.6.3",
     "nyc": "10.2.0",
     "standard": "10.0.1",
-    "test-listen": "1.0.2"
+    "test-listen": "1.0.1"
   },
   "dependencies": {
     "marked": "0.3.6",
