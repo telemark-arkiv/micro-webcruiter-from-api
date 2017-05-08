@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "marked": "0.3.6",
-    "micro": "7.3.2",
+    "micro": "7.3.3",
     "rss": "1.2.2",
     "valid-url": "1.0.9"
   }
