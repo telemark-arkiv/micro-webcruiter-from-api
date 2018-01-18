@@ -1,8 +1,5 @@
-# Setting the base to nodejs 7.8.0
-FROM node:7.8.0-alpine
-
-# Maintainer
-MAINTAINER Geir Gåsodden
+# Setting the base to nodejs 8.9.4
+FROM node:8.9.4-alpine
 
 # Bundle app source
 COPY . /src
